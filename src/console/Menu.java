@@ -18,12 +18,6 @@ public class Menu {
 
 		do {
 			try {
-				System.out.println("\n******************   Menu   ******************\n");
-				System.out.println("1) Afficher les tables");
-				System.out.println("2) Creer une table");
-				System.out.println("3) Modifier une table");
-				System.out.println("4) Supprimer une table");
-				System.out.println("5) Quittez");
 
 				rep = sc.nextInt();
 
