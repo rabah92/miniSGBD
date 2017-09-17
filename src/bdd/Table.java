@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Table {
 	
+	
 	private String nomTable;
 	private ArrayList <String> listeAttributs;
 	private ArrayList <Entite> listeEntitees;

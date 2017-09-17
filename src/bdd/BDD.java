@@ -5,7 +5,8 @@ import java.util.ArrayList;
 public class BDD {
 
 	private ArrayList<Table> listeTables;
-
+	private String nom; // si on veut gerer plusieurs BDD, et meme si on en gere qu'une, faut un nom
+	
 	public BDD() {
 		listeTables = new ArrayList<Table>();
 	}
